@@ -1,0 +1,4 @@
+vk-api
+python-telegram-bot
+yt-dlp
+APScheduler
